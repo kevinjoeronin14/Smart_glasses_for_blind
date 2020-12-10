@@ -258,8 +258,4 @@ all types of input.
 
 
 
-#
 
-# Thanks.
-
-  # This project made by "Amr Mohamed" & "Ali Metwally"
