@@ -6,21 +6,13 @@
 
 
 
- 
 
-
-
-
--  ## What's the project? 
 
     In our proposed system, camera network is built by placing a camera at the blind's glasses.
     The cameras provide scene around faces of people and the objects of his surrounding , then inform blind user what and who is on the front of him.
 In this process, matching-based face recognition is performed to find out the faces in the dataset (CSV file).
-
    
-   
-   
--  ##  How it work?
+ How it work?
 
    1. First step: The user(blind) will click on the
   button.
@@ -45,5 +37,4 @@ normalized data.>>Then Recognize face & detect object.>>Finally send output to m
 “This sound will be the output for the user, this is more
 flexibility for the user.”
 
-   !
 
